@@ -32,7 +32,7 @@ The accuracy of the model is evaluated using the testing set. The results show t
 
 Conclusion
 
-In conclusion, this project demonstrates the effectiveness of machine learning in detecting spam SMS messages. The Multinomial Naive Bayes classifier achieves an accuracy of 97.7% on the testing set, indicating that it is highly effective in classifying SMS messages as either spam or non-spam. This project highlights the importance of data preprocessing and the selection of the right machine learning algorithm for a specific task.
+This project underscores the efficacy of machine learning in identifying spam SMS messages. With the Multinomial Naive Bayes classifier, an accuracy of 97.7% is attained on the testing set, signifying its exceptional ability to categorize SMS messages as either spam or non-spam. Emphasizing the significance of data preprocessing and the careful selection of machine learning algorithms tailored to the task, this project underscores the critical role these factors play in achieving optimal results.
 
 Future Work
 
