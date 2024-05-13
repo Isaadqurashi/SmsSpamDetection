@@ -30,7 +30,7 @@ The model used for this project is a Multinomial Naive Bayes (MNB) classifier. T
 The accuracy of the model is evaluated using the testing set. The results show that the model achieves an accuracy of 97.7%. This indicates that the model is highly effective in classifying SMS messages as either spam or non-spam.
   
 
-#**Conclusion**
+# Conclusion
 
 This project underscores the efficacy of machine learning in identifying spam SMS messages. With the Multinomial Naive Bayes classifier, an accuracy of 97.7% is attained on the testing set, signifying its exceptional ability to categorize SMS messages as either spam or non-spam. Emphasizing the significance of data preprocessing and the careful selection of machine learning algorithms tailored to the task, this project underscores the critical role these factors play in achieving optimal results.
 
