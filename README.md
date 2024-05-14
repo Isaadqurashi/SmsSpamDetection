@@ -5,7 +5,7 @@ IF-102 semester Project
 
 # Introduction
 
-This project aims to develop a machine learning model for detecting spam SMS messages. The model is trained on a dataset of SMS messages labeled as either spam or non-spam. The goal is to achieve high accuracy in classifying new, unseen SMS messages as either spam or non-spam.
+The project aims to develop a machine learning model for detecting spam SMS messages. The model is trained on a dataset of SMS messages labeled as either spam or non-spam. The goal is to achieve high accuracy in classifying new, unseen SMS messages as either spam or non-spam.
 
 # Dataset Description
 
